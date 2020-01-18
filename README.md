@@ -25,7 +25,7 @@ This implementation of MauFlex on Python 3, Keras and Tensorflow. The model gene
 
 ![result](https://github.com/GiorgioMorales/MauFlex/blob/master/assets/segment.jpg)
 
-** Mauritia Flexuosa segmentation result for a whole image. (a) Original image. (b) *Mauritia Flexuosa* probability map. (c) *Mauritia Flexuosa* binary mask.**
+***Mauritia Flexuosa* segmentation result for a whole image. (a) Original image. (b) *Mauritia Flexuosa* probability map. (c) *Mauritia Flexuosa* binary mask.**
 
 ![mosaic](https://github.com/GiorgioMorales/MauFlex/blob/master/assets/bigmosaic2.jpg)
 
