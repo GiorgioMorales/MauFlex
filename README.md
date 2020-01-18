@@ -23,7 +23,7 @@ This implementation of MauFlex on Python 3, Keras and Tensorflow. The model gene
 
 **User interface**
 
-![result](https://github.com/GiorgioMorales/MauFlex/blob/master/assets/result.png)
+![result](https://github.com/GiorgioMorales/MauFlex/blob/master/assets/segment.png)
 
 **Segmentatin result**
 
