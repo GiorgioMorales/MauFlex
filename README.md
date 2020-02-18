@@ -17,7 +17,7 @@ palms partially covered by other types of vegetation.
 
 # Implementation
 
-This implementation of MauFlex on Python 3, Keras and Tensorflow. The model generates segmentation masks for each selected image of the selected folder. 
+This is the implementation of MauFlex on Python 3, Keras and Tensorflow. The model generates segmentation masks for each selected image of the selected folder. 
 
 ![GUI](https://github.com/GiorgioMorales/MauFlex/blob/master/assets/GUI.png)
 
